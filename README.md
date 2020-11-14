@@ -7,4 +7,4 @@ It's how I created an animated text-stroke using SVG and CSS
 
 # Visuals
 
-![Alt Text](ezgif.com-video-to-gif)
+![Alt Text](ezgif.com-video-to-gif.gif)
